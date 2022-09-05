@@ -3,7 +3,7 @@ Git คือ Version Control ที่ใช้ในการพัฒนา S
 การใช้งานคำสั่งพื้นฐาน Git ที่ใช้งานกันบ่อยๆ บน Terminal
 
 git status คือ แสดงไฟล์ที่มีการเปลี่ยนแปลง หรือยังต้องการ add หรือ commit
-git add คือ การเพิ่มไฟล์เป็นสถานะ stage
+git add . คือ การเพิ่มไฟล์เป็นสถานะ stage
 git reset คือ การ unstage ไฟล์ที่เราเคย stage
 git commit คือการ commit ไฟล์ที่ stage โดยมักจะใช้  git commit -m เพื่อเพิ่มข้อความในสิ่งที่ทำไป
 git log คือการดุประวัติที่เคย commit ไว้
