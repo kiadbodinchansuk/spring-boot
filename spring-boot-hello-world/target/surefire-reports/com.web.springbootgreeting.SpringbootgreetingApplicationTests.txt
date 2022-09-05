@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.web.springbootgreeting.SpringbootgreetingApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.883 s - in com.web.springbootgreeting.SpringbootgreetingApplicationTests
