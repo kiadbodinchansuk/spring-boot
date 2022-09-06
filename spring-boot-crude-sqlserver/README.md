@@ -9,3 +9,11 @@
 * แก้ไข  Update
 * ลบข้อมูล Delete
 
+# เริ่มต้นใน Eclipse ดังนี้
+# 1. กำหนด Config ใน application.properties
+# 2. กำหนด dependencies ในไฟล์ pom.xml  
+# 3. เขียน Entity ในของ Table ให้ตรงกับชื่อ ตารางใน sqlserver
+# 4. เขียน JpaRepository โดยสร้าง Interface ของ Repo เชื่อมต่อ JpaRepository ในแพจเกจ Repository
+# 5. เขียน Service ในการเรียกใช้ Interface Repository กำหนด method ต่างๆ เช่น Add , findAll, delete เป็นต้น
+# 6. เขียน Controller เพื่อกำหนด Mapping path url
+# 7. รัน Project ทดสอบการใช้งาน
