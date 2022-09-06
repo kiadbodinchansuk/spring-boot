@@ -5,9 +5,9 @@
 Ref. https://docs.spring.io/spring-boot/docs/2.7.3/reference/html/index.html
 <br/>
 # ตั้งค่าเริ่มต้น
-- spring boot version 2.7.3
-- Java 11 
-- Eclipse 
+- spring boot version 2.7.3 https://start.spring.io/
+- Java 11  สามารถดาวน์โหลด JDK ที่ <a href="https://adoptopenjdk.net/"> adoptopenjdk</a>
+- Eclipse สามารถดาวน์โหลด Eclipse ที่ <a href="https://www.eclipse.org/"> Eclipse </a>
 # สารบัญ
 * <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-hello-world"> spring-boot-hello-world </a> - ทดสอบเริ่มต้นใช้งาน
 * dd
