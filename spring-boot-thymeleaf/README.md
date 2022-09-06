@@ -11,7 +11,7 @@
 	<li class="list-group-item"> <a href="https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#conditional-evaluation"> การใช้งาน Conditional Evaluation เช่น if-else, switch	 </a></li>
 					<li class="list-group-item"> <a href="https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#template-layout"> การใช้งาน Template Layout	 </a></li>
 					<li class="list-group-item"> <a href="https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#local-variables"> การใช้งาน Local Variables	 </a></li>
-		<li class="list-group-item"> <a th:href="@{/}"> การใช้งาน Attribute Precedence	 </a></li>
+		<li class="list-group-item"> <a href="https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#attribute-precedence"> การใช้งาน Attribute Precedence	 </a></li>
 			<li class="list-group-item"> <a href="https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#appendix-b-expression-utility-objects"> การใช้งาน Expression Utility Objects เช่น Date , Calendars , Numbers 	 </a></li>					
 		<li class="list-group-item"><a href="https://www.thymeleaf.org/doc/tutorials/2.1/usingthymeleaf.html#web-context-namespaces-for-requestsession-attributes-etc."> การแสดง session object เมื่อ login  </a> </li>
 </ol>
