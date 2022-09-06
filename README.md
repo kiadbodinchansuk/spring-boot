@@ -4,4 +4,10 @@
 # เริ่มต้นเรียนรู้การเขียนเว็บไซต์ด้วย Spring boot
 Ref. https://docs.spring.io/spring-boot/docs/2.7.3/reference/html/index.html
 <br/>
-
+# ตั้งค่าเริ่มต้น
+- spring boot version 2.7.3
+- Java 11 
+- Eclipse 
+# สารบัญ
+* เริ่มต้น
+* dd
