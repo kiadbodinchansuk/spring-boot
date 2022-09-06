@@ -10,4 +10,4 @@ Ref. https://docs.spring.io/spring-boot/docs/2.7.3/reference/html/index.html
 - Eclipse สามารถดาวน์โหลด Eclipse ที่ <a href="https://www.eclipse.org/"> Eclipse </a>
 # สารบัญ
 * <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-hello-world"> spring-boot-hello-world </a> - ทดสอบเริ่มต้นใช้งาน
-* dd
+* <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-thymeleaf"> spring-boot-thymeleaf </a> -เริ่มต้นใช้งาน thymeleaf
