@@ -11,3 +11,5 @@ Ref. https://docs.spring.io/spring-boot/docs/2.7.3/reference/html/index.html
 # สารบัญ
 * <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-hello-world"> spring-boot-hello-world </a> - ทดสอบเริ่มต้นใช้งาน
 * <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-thymeleaf"> spring-boot-thymeleaf </a> -เริ่มต้นใช้งาน thymeleaf
+* <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-crude-sqlserver"> spring-boot-crude-sqlserver </a> - การเชื่อมต่อ microsoft sql server
+
