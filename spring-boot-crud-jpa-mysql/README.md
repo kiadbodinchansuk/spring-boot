@@ -1,1 +1,6 @@
 
+# install
+1. Create project pass https://start.spring.io/
+2. import project into eclise 
+3. config application.properties
+4. create table in database 
