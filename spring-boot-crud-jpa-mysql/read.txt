@@ -4,3 +4,18 @@ install
 3. config application.properties
 4. create table in database 
 
+
+productid Primary	int(11)			No	None		
+AUTO_INCREMENT	Change Change	Drop Drop	
+More More
+	2	productname	varchar(50)	utf8mb4_general_ci		Yes	NULL			Change Change	Drop Drop	
+More More
+	3	productbrand	varchar(50)	utf8mb4_general_ci		Yes	NULL			Change Change	Drop Drop	
+More More
+	4	productprice	double			Yes	NULL			Change Change	Drop Drop	
+More More
+	5	productdetail	text	utf8mb4_general_ci		Yes	NULL			Change Change	Drop Drop	
+More More
+	6	productcdate	timestamp			Yes	current_timestamp()			Change Change	Drop Drop	
+More More
+	7	productedate
