@@ -4,18 +4,13 @@ install
 3. config application.properties
 4. create table in database 
 
+วิธีทำไฟล์ install run project
+Step by Step
+สร้างฐานข้อมูลและแก้ไขรหัสผ่านใน mysql ให้เรียบร้อย
 
-productid Primary	int(11)			No	None		
-AUTO_INCREMENT	Change Change	Drop Drop	
-More More
-	2	productname	varchar(50)	utf8mb4_general_ci		Yes	NULL			Change Change	Drop Drop	
-More More
-	3	productbrand	varchar(50)	utf8mb4_general_ci		Yes	NULL			Change Change	Drop Drop	
-More More
-	4	productprice	double			Yes	NULL			Change Change	Drop Drop	
-More More
-	5	productdetail	text	utf8mb4_general_ci		Yes	NULL			Change Change	Drop Drop	
-More More
-	6	productcdate	timestamp			Yes	current_timestamp()			Change Change	Drop Drop	
-More More
-	7	productedate
+1. cmd in Floder ที่แก้ Project
+2.  ใช้คำสั่งผ่าน command Line
+	->mvnw clean
+	->mvnw install
+	->java -jar target/springbootcrudmysql-0.0.1-SNAPSHOT.jar
+3. เข้า browser http://localhost:8080/ 
