@@ -14,5 +14,7 @@ Ref. https://docs.spring.io/spring-boot/docs/2.7.3/reference/html/index.html
 * <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-crud-jpa-mysql"> spring-boot-crud-jpa-mysql </a> - ตัวอย่างง่ายสุด สามารถ insert update delete ในฐานข้อมูล mysql ได้โดยใช้ jparepository
 * <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-crude-sqlserver"> spring-boot-crude-sqlserver </a> - การเชื่อมต่อ microsoft sql server
 * <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-crude-sqlserver-jparepository-hibernate"> spring-boot-crude-sqlserver-jparepository-hibernate </a> -  การทำ crud เชื่อมต่อ microsoft sql server โดยใช้ jparepository + Hebernate สามารถ เพิ่มสินค้า , แก้ไข , ลบ ในนี้มีฐานข้อมูลตารางสินค้า
+* <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-crud-jpa-mysql-pagination-sort"> spring-boot-crud-jpa-mysql-pagination-sort </a> - การทำ pagenation
+
 
 
