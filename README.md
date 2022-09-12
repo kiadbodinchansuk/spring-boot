@@ -15,6 +15,6 @@ Ref. https://docs.spring.io/spring-boot/docs/2.7.3/reference/html/index.html
 * <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-crude-sqlserver"> spring-boot-crude-sqlserver </a> - การเชื่อมต่อ microsoft sql server
 * <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-crude-sqlserver-jparepository-hibernate"> spring-boot-crude-sqlserver-jparepository-hibernate </a> -  การทำ crud เชื่อมต่อ microsoft sql server โดยใช้ jparepository + Hebernate สามารถ เพิ่มสินค้า , แก้ไข , ลบ ในนี้มีฐานข้อมูลตารางสินค้า
 * <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-crud-jpa-mysql-pagination-sort"> spring-boot-crud-jpa-mysql-pagination-sort </a> - การทำ pagenation
-
+*  <a href="https://github.com/kiadbodinchansuk/spring-boot/tree/main/spring-boot-security"> spring-boot-security.5.7 </a> - การใช้ spring security 5.7 ใหม่ล่าสุดใน spring boot 
 
 
