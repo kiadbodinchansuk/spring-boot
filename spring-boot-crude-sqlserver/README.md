@@ -17,6 +17,9 @@
 5. เขียน Service ในการเรียกใช้ Interface Repository กำหนด method ต่างๆ เช่น Add , findAll, delete เป็นต้น
 6. เขียน Controller เพื่อกำหนด Mapping path url
 7. รัน Project ทดสอบการใช้งาน
+# Edit application.properties for connect  MS SQL SERVER EXPRESS your computer
+![set utf8 sqlserver-1](https://user-images.githubusercontent.com/7127833/190330872-680aeb5f-be48-4854-984f-9205ede87207.PNG)
+
 # Create database name cart in MS SQL SERVER EXPRESS or import cart.sql
 ![set utf8 sqlserver](https://user-images.githubusercontent.com/7127833/190329113-0a81a13b-a038-4ae8-bb28-22ebe6e3cdb5.PNG)
 
